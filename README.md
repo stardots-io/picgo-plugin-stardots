@@ -24,6 +24,6 @@ PicGo plugin for StarDots
 [https://dashboard.stardots.io/openapi/key-and-secret](https://dashboard.stardots.io/openapi/key-and-secret)  
 
 ## Screenshots  
-![onfiguration1.png](screenshots/configuration1.png)  
+![configuration1.png](screenshots/configuration1.png)  
 
-![onfiguration2.png](screenshots/configuration2.png)  
+![configuration2.png](screenshots/configuration2.png)  

@@ -1,6 +1,6 @@
 {
     "name": "picgo-plugin-stardots",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "PicGo plugin for StarDots",
     "main": "dist/index.js",
     "homepage": "https://github.com/stardots-io/picgo-plugin-stardots",

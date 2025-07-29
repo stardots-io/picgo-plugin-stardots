@@ -6,7 +6,7 @@ import FormData from 'form-data'
 import { ZH_CN, EN, ZH_TW } from './i18n'
 
 const starDotsEndpoint = 'https://api.stardots.io'
-const starDotsVersion = 'picgo:1.0.0'
+const starDotsVersion = 'picgo:1.0.1'
 
 /** StarDots configuration */
 interface IStarDotsConfig {

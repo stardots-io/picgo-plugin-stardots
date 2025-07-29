@@ -24,6 +24,12 @@ PicGo plugin for StarDots
 [https://dashboard.stardots.io/openapi/key-and-secret](https://dashboard.stardots.io/openapi/key-and-secret)  
 
 ## Screenshots  
+> install via gui  
+
 ![configuration1.png](screenshots/configuration1.png)  
 
 ![configuration2.png](screenshots/configuration2.png)  
+
+> install via cli  
+
+![install-stardots-via-cli](screenshots/install-stardots-via-cli.png)  
